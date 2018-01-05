@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+	<head>
+		
+		<style>
+			body{
+				padding: 0;
+				margin: 0;
+				background-color: rgb(242,243,230);
+        font-family: "Helvetica", Arial, sans-serif;
+        text-align: center;
+        color: #aaa794;
+			}
+      #titleWrapper {
+        width : 40%;
+        margin: auto;
+        margin-top: 50px;
+      }
+      #title {
+        font-size: 12px;
+      }
+      a {
+        font-size: 10px;
+        text-decoration: none;
+        color: #aaa794;
+        text-align: center;
+      }
+      img {
+        width:75%;
+        height:auto;
+        text-align: center;
+      }
+      .child {
+        width:15%;
+        height: auto;
+        text-align:center;
+        display:inline-block;
+        padding:0 10px;
+        margin-right:8px;
+      }
+      .parent {
+          text-align:center
+      }
+      div {
+        text-align: center;
+      }
+      .linktext {
+        text-align: center;
+      }
+		</style>
+	</head>
+	<body>
+  <div id="titleWrapper">
+  <span id="title">
+  It is possible Java may display your selected chart type incorrectly.
+  </span>
+  </div> 
+  <br> 
+  <div class="parent">
+      <div class="child" align="center">
+          <a href={WEBLINK}><img src={WEBIMG} /></a>
+          <div class="linktext">
+             <a href={WEBLINK}>  OPEN IN BROWSER</a>
+          </div>
+      </div>
+      <div class="child" align="center">
+         <a href={CONTLINK}><img src={CONTIMG} /></a>
+          <div class="linktext">
+             <a href={CONTLINK}> DISPLAY ANYWAY </a>
+          </div>
+      </div>
+  </div>
+	</body>
+</html>

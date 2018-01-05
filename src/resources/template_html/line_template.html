@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+	<head>
+		<script src={CHART.JS}></script>
+		<style>
+			body{
+				padding: 0;
+				margin: 0;
+				background-color: rgb(242,243,230);
+			}
+			#canvas-holder{
+                text-align: center;
+    background-color: rgb(242,243,230);
+			}
+			#chart-area {
+				width : {WIDTH};
+				height : {HEIGHT};
+				background-color: rgb(242,243,230);
+			}
+            ul {
+                list-style: none; 
+                 position: relative; 
+                 left: 50%;
+}
+ul li {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 5px;
+  font-size: 10px;
+  font-family: "Helvetica", Arial, sans-serif;
+  font-weight: bold;
+  color: rgb(170,167,148);
+  padding-right: 18px;
+}
+li span {
+  display: inline-block;
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+}
+#parent{
+    float:right;
+    position:relative;
+    left:-50%;
+    margin-top: {LEGEND-MARGIN};
+    text-align:left;
+}
+		</style>
+	</head>
+	<body>
+		  <div id='canvas-holder'>
+			<canvas id='chart-area'/>  
+		  </div>
+        <div id="parent">
+         {LEGEND}
+        </div>
+        <div id="chartjs-tooltip"></div>
+
+	<script>
+		var lineData = {
+        labels: [{LABELS}],
+		datasets: [{DATASETS}]
+			};
+			window.onload = function(){
+				var ctx = document.getElementById('chart-area').getContext('2d');
+				window.lineChart = new Chart(ctx).Line(lineData, {
+        animationSteps: 100, animationEasing:"easeInOutQuart", scaleShowLine : false, scaleShowLabels:{SHOWLABEL}, showScale: {SHOWSCALE}, datasetStrokeWidth: {STROKEWIDTH}, pointLabelFontSize : 0, angleShowLineOut : false, scaleBeginAtZero: {SCALESTART}, pointDotRadius : 4, multiTooltipTemplate: " <%= value %>"
+            });
+			};
+	</script>
+	</body>
+</html>
