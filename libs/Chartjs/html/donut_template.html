@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<script src={CHART.JS}></script>
+<style>
+body{ padding: 0; margin: 0; background-color: rgb(242,243,230);}
+#canvas-holder{background-color: rgb(242,243,230);}
+#chart-area {width : {WIDTH}; height : {HEIGHT}; background-color: rgb(242,243,230);}
+</style>
+</head>
+<body>
+<div id='canvas-holder'>
+<canvas id='chart-area'/>
+</div>
+<script>
+var donutData = [{DATA}];
+window.onload = function(){
+var ctx = document.getElementById('chart-area').getContext('2d');
+window.donutChart = new Chart(ctx).Pie(donutData, {animationSteps: 60, segmentStrokeColor: "#f2f3e6", segmentStrokeWidth: {STROKEWIDTH}});};
+</script>
+</body>
+</html>

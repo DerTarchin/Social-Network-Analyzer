@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Doughnut Chart</title>
+		<script src='../Chart.js'></script>
+		<style>
+			body{
+				padding: 0;
+				margin: 0;
+				background-color: rgb(242,243,230);
+			}
+			#canvas-holder{
+    background-color: rgb(242,243,230);
+			}
+			#chart-area {
+				width : 100%;
+				height : 200px;
+				background-color: rgb(242,243,230);
+			}
+		</style>
+	</head>
+	<body>
+		<div id='canvas-holder'>
+			<canvas id='chart-area'/>
+		</div>
+	<script>
+
+		var doughnutData = [
+				{
+					value: 300,
+					color:'#F7464A',
+					highlight: '#FF5A5E',
+					label: 'Red'
+				},
+				{
+					value: 50,
+					color: '#46BFBD',
+					highlight: '#5AD3D1',
+					label: 'Green'
+				},
+				{
+					value: 100,
+					color: '#FDB45C',
+					highlight: '#FFC870',
+					label: 'Yellow'
+				},
+				{
+					value: 40,
+					color: '#949FB1',
+					highlight: '#A8B3C5',
+					label: 'Grey'
+				},
+				{
+					value: 120,
+					color: '#4D5360',
+					highlight: '#616774',
+					label: 'Dark Grey'
+				}
+
+			];
+
+			window.onload = function(){
+				var ctx = document.getElementById('chart-area').getContext('2d');
+				window.myDoughnut = new Chart(ctx).Pie(doughnutData, {animationSteps: 60, segmentStrokeColor: "#f2f3e6", segmentStrokeWidth: 5});
+				setInterval(function(){
+  // Add two random numbers for each dataset
+  window.myDoughnut.addData({
+					value: Math.random() * 100,
+					color: '#FDB45C',
+					highlight: '#FFC870',
+					label: 'Yellow'
+				});
+  // Remove the first point so we dont just add values forever
+  // window.myDoughnut.removeData();
+}, 2500);
+			};
+
+	</script>
+	</body>
+</html>
