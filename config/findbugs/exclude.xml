@@ -1,0 +1,14 @@
+<FindBugsFilter>
+    <Match>
+        <Bug pattern="DM_EXIT" />
+    </Match>
+    <Match>
+        <Bug pattern="DM_DEFAULT_ENCODING" />
+    </Match>
+    <Match>
+	<Bug pattern="BC_UNCONFIRMED_CAST" />
+    </Match>
+    <Match>
+	<Bug pattern="NP_LOAD_OF_KNOWN_NULL_VALUE" />
+    </Match>
+</FindBugsFilter>
