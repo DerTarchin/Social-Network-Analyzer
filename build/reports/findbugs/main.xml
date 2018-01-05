@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.0" sequence="0" timestamp="1448031332253" analysisTimestamp="1448031332306" release="">
+  <Project projectName="">
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/analysis/HashtagPopularityAnalyzer$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/analysis/HashtagPopularityAnalyzer.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/analysis/PhraseMoodAnalysis$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/analysis/PhraseMoodAnalysis.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/analysis/TwoUserMoodComparisonAnalysis.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/analysis/UserFilter.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/analysis/VisualizerDemo.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/core/AnalysisPlugin.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/core/Data.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/core/DataPlugin.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/core/Filter.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/core/Framework.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/core/Post.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/core/Sentiment.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/core/SentimentClassifier.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/data/GitHubRepoDataPlugin.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/data/TwitterPhraseDataPlugin.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/AnalysisPluginsPanel.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/AnalyzerGUI$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/AnalyzerGUI.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/ApplyButton.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/DataPluginsPanel$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/DataPluginsPanel.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/GUIResources.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/PluginManager$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/PluginManager$2.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/PluginManager$3.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/PluginManager$4.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/PluginManager$5.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/PluginManager.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/TopPanel$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/TopPanel$2.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/TopPanel$3.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/TopPanel.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/Util$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/Util$2$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/Util$2$2.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/Util$2.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/Util$3.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/Util.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/gui/Window.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/main/Main.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/BarChart.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/Chart.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/Control.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/ControlPanel.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/DataPoint.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/DonutChart.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/LineChart.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/PieChart.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/PolarChart.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/RadarChart.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/Range.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/RangeControl.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser$2$1$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser$2$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser$2$2.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser$2$3.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser$2.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser$3.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SliderControl$1.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/SliderControl.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/TextFieldControl.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/ToggleControl.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/visualizer/Visualizer.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/web/HttpUtils.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/web/SimpleJsonArray.class</Jar>
+    <Jar>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/build/classes/main/edu/cmu/cs214/hw5/web/SimpleJsonObject.class</Jar>
+    <AuxClasspathEntry>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/libs/twitter4j-core-4.0.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/libs/egit-core-3.3.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/libs/java-json.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/libs/lingpipe-4.1.0.jar</AuxClasspathEntry>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/HashtagPopularityAnalyzer.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/PhraseMoodAnalysis.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/TwoUserMoodComparisonAnalysis.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/UserFilter.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/VisualizerDemo.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/AnalysisPlugin.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Data.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/DataPlugin.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Filter.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Framework.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Post.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Sentiment.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/SentimentClassifier.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/data/GitHubRepoDataPlugin.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/data/TwitterPhraseDataPlugin.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/AnalysisPluginsPanel.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/AnalyzerGUI.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/ApplyButton.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/DataPluginsPanel.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/GUIResources.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/PluginManager.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/TopPanel.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/Util.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/Window.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/main/Main.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/BarChart.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/Chart.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/Control.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/ControlPanel.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/DataPoint.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/DonutChart.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/LineChart.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/PieChart.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/PolarChart.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/RadarChart.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/Range.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/RangeControl.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/SliderControl.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/TextFieldControl.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/ToggleControl.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/Visualizer.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/web/HttpUtils.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/web/SimpleJsonArray.java</SrcDir>
+    <SrcDir>/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/web/SimpleJsonObject.java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Fri, 20 Nov 2015 09:55:32 -0500" total_classes="70" referenced_classes="529" total_bugs="0" total_size="3769" num_packages="7" java_version="1.8.0_60" vm_version="25.60-b23" cpu_seconds="31.61" clock_seconds="7.18" peak_mbytes="427.09" alloc_mbytes="3641.00" gc_seconds="0.12">
+    <PackageStats package="edu.cmu.cs214.hw5.analysis" total_bugs="0" total_types="7" total_size="360">
+      <ClassStats class="edu.cmu.cs214.hw5.analysis.HashtagPopularityAnalyzer" sourceFile="HashtagPopularityAnalyzer.java" interface="false" size="68" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.analysis.HashtagPopularityAnalyzer$1" sourceFile="HashtagPopularityAnalyzer.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.analysis.PhraseMoodAnalysis" sourceFile="PhraseMoodAnalysis.java" interface="false" size="45" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.analysis.PhraseMoodAnalysis$1" sourceFile="PhraseMoodAnalysis.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.analysis.TwoUserMoodComparisonAnalysis" sourceFile="TwoUserMoodComparisonAnalysis.java" interface="false" size="75" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.analysis.UserFilter" sourceFile="UserFilter.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.analysis.VisualizerDemo" sourceFile="VisualizerDemo.java" interface="false" size="136" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="edu.cmu.cs214.hw5.core" total_bugs="0" total_types="8" total_size="237">
+      <ClassStats class="edu.cmu.cs214.hw5.core.AnalysisPlugin" sourceFile="AnalysisPlugin.java" interface="true" size="5" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.core.Data" sourceFile="Data.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.core.DataPlugin" sourceFile="DataPlugin.java" interface="true" size="6" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.core.Filter" sourceFile="Filter.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.core.Framework" sourceFile="Framework.java" interface="false" size="100" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.core.Post" sourceFile="Post.java" interface="false" size="73" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.core.Sentiment" sourceFile="Sentiment.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.core.SentimentClassifier" sourceFile="SentimentClassifier.java" interface="false" size="20" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="edu.cmu.cs214.hw5.data" total_bugs="0" total_types="2" total_size="80">
+      <ClassStats class="edu.cmu.cs214.hw5.data.GitHubRepoDataPlugin" sourceFile="GitHubRepoDataPlugin.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.data.TwitterPhraseDataPlugin" sourceFile="TwitterPhraseDataPlugin.java" interface="false" size="40" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="edu.cmu.cs214.hw5.gui" total_bugs="0" total_types="24" total_size="1131">
+      <ClassStats class="edu.cmu.cs214.hw5.gui.AnalysisPluginsPanel" sourceFile="AnalysisPluginsPanel.java" interface="false" size="113" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.AnalyzerGUI" sourceFile="AnalyzerGUI.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.AnalyzerGUI$1" sourceFile="AnalyzerGUI.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.ApplyButton" sourceFile="ApplyButton.java" interface="false" size="63" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.DataPluginsPanel" sourceFile="DataPluginsPanel.java" interface="false" size="190" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.DataPluginsPanel$1" sourceFile="DataPluginsPanel.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.GUIResources" sourceFile="GUIResources.java" interface="false" size="124" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.PluginManager" sourceFile="PluginManager.java" interface="false" size="226" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.PluginManager$1" sourceFile="PluginManager.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.PluginManager$2" sourceFile="PluginManager.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.PluginManager$3" sourceFile="PluginManager.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.PluginManager$4" sourceFile="PluginManager.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.PluginManager$5" sourceFile="PluginManager.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.TopPanel" sourceFile="TopPanel.java" interface="false" size="86" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.TopPanel$1" sourceFile="TopPanel.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.TopPanel$2" sourceFile="TopPanel.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.TopPanel$3" sourceFile="TopPanel.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.Util" sourceFile="Util.java" interface="false" size="81" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.Util$1" sourceFile="Util.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.Util$2" sourceFile="Util.java" interface="false" size="41" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.Util$2$1" sourceFile="Util.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.Util$2$2" sourceFile="Util.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.Util$3" sourceFile="Util.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.gui.Window" sourceFile="Window.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="edu.cmu.cs214.hw5.main" total_bugs="0" total_types="1" total_size="24">
+      <ClassStats class="edu.cmu.cs214.hw5.main.Main" sourceFile="Main.java" interface="false" size="24" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="edu.cmu.cs214.hw5.visualizer" total_bugs="0" total_types="25" total_size="1840">
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.BarChart" sourceFile="BarChart.java" interface="false" size="158" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.Chart" sourceFile="Chart.java" interface="true" size="13" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.Control" sourceFile="Control.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.ControlPanel" sourceFile="ControlPanel.java" interface="false" size="37" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.DataPoint" sourceFile="DataPoint.java" interface="false" size="36" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.DonutChart" sourceFile="DonutChart.java" interface="false" size="100" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.LineChart" sourceFile="LineChart.java" interface="false" size="161" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.PieChart" sourceFile="PieChart.java" interface="false" size="100" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.PolarChart" sourceFile="PolarChart.java" interface="false" size="100" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.RadarChart" sourceFile="RadarChart.java" interface="false" size="160" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.Range" sourceFile="Range.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.RangeControl" sourceFile="RangeControl.java" interface="false" size="149" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SimpleSwingBrowser" sourceFile="SimpleSwingBrowser.java" interface="false" size="46" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SimpleSwingBrowser$1" sourceFile="SimpleSwingBrowser.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SimpleSwingBrowser$2" sourceFile="SimpleSwingBrowser.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SimpleSwingBrowser$2$1" sourceFile="SimpleSwingBrowser.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SimpleSwingBrowser$2$1$1" sourceFile="SimpleSwingBrowser.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SimpleSwingBrowser$2$2" sourceFile="SimpleSwingBrowser.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SimpleSwingBrowser$2$3" sourceFile="SimpleSwingBrowser.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SimpleSwingBrowser$3" sourceFile="SimpleSwingBrowser.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SliderControl" sourceFile="SliderControl.java" interface="false" size="115" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.SliderControl$1" sourceFile="SliderControl.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.TextFieldControl" sourceFile="TextFieldControl.java" interface="false" size="116" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.ToggleControl" sourceFile="ToggleControl.java" interface="false" size="84" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.visualizer.Visualizer" sourceFile="Visualizer.java" interface="false" size="340" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="edu.cmu.cs214.hw5.web" total_bugs="0" total_types="3" total_size="97">
+      <ClassStats class="edu.cmu.cs214.hw5.web.HttpUtils" sourceFile="HttpUtils.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.web.SimpleJsonArray" sourceFile="SimpleJsonArray.java" interface="false" size="26" bugs="0"/>
+      <ClassStats class="edu.cmu.cs214.hw5.web.SimpleJsonObject" sourceFile="SimpleJsonObject.java" interface="false" size="41" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="659" invocations="2278" avgMicrosecondsPerInvocation="289" maxMicrosecondsPerInvocation="22351" standardDeviationMircosecondsPerInvocation="833"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="645" invocations="529" avgMicrosecondsPerInvocation="1221" maxMicrosecondsPerInvocation="24315" standardDeviationMircosecondsPerInvocation="2424"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="446" invocations="1394" avgMicrosecondsPerInvocation="320" maxMicrosecondsPerInvocation="14851" standardDeviationMircosecondsPerInvocation="652"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="346" invocations="421" avgMicrosecondsPerInvocation="824" maxMicrosecondsPerInvocation="40692" standardDeviationMircosecondsPerInvocation="2809"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="320" invocations="425" avgMicrosecondsPerInvocation="753" maxMicrosecondsPerInvocation="15785" standardDeviationMircosecondsPerInvocation="1821"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="307" invocations="414" avgMicrosecondsPerInvocation="742" maxMicrosecondsPerInvocation="12690" standardDeviationMircosecondsPerInvocation="1743"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="265" invocations="446" avgMicrosecondsPerInvocation="595" maxMicrosecondsPerInvocation="13193" standardDeviationMircosecondsPerInvocation="1639"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="249" invocations="441" avgMicrosecondsPerInvocation="564" maxMicrosecondsPerInvocation="13966" standardDeviationMircosecondsPerInvocation="1399"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="185" invocations="2282" avgMicrosecondsPerInvocation="81" maxMicrosecondsPerInvocation="1676" standardDeviationMircosecondsPerInvocation="142"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="171" invocations="425" avgMicrosecondsPerInvocation="404" maxMicrosecondsPerInvocation="12833" standardDeviationMircosecondsPerInvocation="886"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="159" invocations="316" avgMicrosecondsPerInvocation="505" maxMicrosecondsPerInvocation="7857" standardDeviationMircosecondsPerInvocation="1044"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="136" invocations="529" avgMicrosecondsPerInvocation="258" maxMicrosecondsPerInvocation="5072" standardDeviationMircosecondsPerInvocation="513"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="116" invocations="603" avgMicrosecondsPerInvocation="192" maxMicrosecondsPerInvocation="16869" standardDeviationMircosecondsPerInvocation="731"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="109" invocations="529" avgMicrosecondsPerInvocation="207" maxMicrosecondsPerInvocation="4207" standardDeviationMircosecondsPerInvocation="362"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="107" invocations="529" avgMicrosecondsPerInvocation="204" maxMicrosecondsPerInvocation="15812" standardDeviationMircosecondsPerInvocation="1364"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="103" invocations="529" avgMicrosecondsPerInvocation="195" maxMicrosecondsPerInvocation="6166" standardDeviationMircosecondsPerInvocation="449"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="99" invocations="529" avgMicrosecondsPerInvocation="187" maxMicrosecondsPerInvocation="8392" standardDeviationMircosecondsPerInvocation="465"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="93" invocations="2227" avgMicrosecondsPerInvocation="42" maxMicrosecondsPerInvocation="1564" standardDeviationMircosecondsPerInvocation="88"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="79" invocations="425" avgMicrosecondsPerInvocation="186" maxMicrosecondsPerInvocation="5265" standardDeviationMircosecondsPerInvocation="531"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="78" invocations="452" avgMicrosecondsPerInvocation="173" maxMicrosecondsPerInvocation="43512" standardDeviationMircosecondsPerInvocation="2044"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="77" invocations="529" avgMicrosecondsPerInvocation="146" maxMicrosecondsPerInvocation="3207" standardDeviationMircosecondsPerInvocation="285"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="75" invocations="529" avgMicrosecondsPerInvocation="142" maxMicrosecondsPerInvocation="12897" standardDeviationMircosecondsPerInvocation="592"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="60" invocations="70" avgMicrosecondsPerInvocation="864" maxMicrosecondsPerInvocation="5987" standardDeviationMircosecondsPerInvocation="1157"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="49" invocations="70" avgMicrosecondsPerInvocation="713" maxMicrosecondsPerInvocation="29358" standardDeviationMircosecondsPerInvocation="3522"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.StreamResourceTracker" totalMilliseconds="48" invocations="42" avgMicrosecondsPerInvocation="1154" maxMicrosecondsPerInvocation="4239" standardDeviationMircosecondsPerInvocation="899"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

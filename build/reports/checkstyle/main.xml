@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/HashtagPopularityAnalyzer.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/PhraseMoodAnalysis.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/TwoUserMoodComparisonAnalysis.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/UserFilter.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/analysis/VisualizerDemo.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/AnalysisPlugin.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Data.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/DataPlugin.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Filter.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Framework.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Post.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/Sentiment.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/core/SentimentClassifier.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/data/GitHubRepoDataPlugin.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/data/TwitterPhraseDataPlugin.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/AnalysisPluginsPanel.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/AnalyzerGUI.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/ApplyButton.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/DataPluginsPanel.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/GUIResources.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/PluginManager.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/TopPanel.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/Util.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/gui/Window.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/main/Main.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/BarChart.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/Chart.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/Control.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/ControlPanel.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/DataPoint.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/DonutChart.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/LineChart.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/PieChart.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/PolarChart.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/RadarChart.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/Range.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/RangeControl.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/SimpleSwingBrowser.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/SliderControl.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/TextFieldControl.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/ToggleControl.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/visualizer/Visualizer.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/web/HttpUtils.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/web/SimpleJsonArray.java">
+</file>
+<file name="/Users/Hizal/Documents/College/F15/15-214/Team32/hw5b/src/main/java/edu/cmu/cs214/hw5/web/SimpleJsonObject.java">
+</file>
+</checkstyle>
